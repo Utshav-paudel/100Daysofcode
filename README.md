@@ -34,4 +34,9 @@ There are two types of typecasting in python </P>
 
 # Day 1 project Calculator :
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/c3f966a86f9b31b7ab15ca3c510dfb08c7e142f8/images/day1.png)
-  `this is code`
+
+  ```
+  
+  this is code
+  
+  ```
