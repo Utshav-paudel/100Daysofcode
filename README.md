@@ -14,8 +14,9 @@ There are two types of typecasting in python </P>
      #sum will be in float because of implicit typecasting
      ```
 2. Explicit typecasting
-  conversion of data types by programmer is called explicit typecasting .
-  for e.g :
+  <p>conversion of data types by programmer is called explicit typecasting .
+  for e.g :</p>
+  <break>
   ```a=10
      b=2
      sum=a+b
