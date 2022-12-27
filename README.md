@@ -55,9 +55,9 @@ There are two types of typecasting in python </P>
  ```    
  import time
     
- ```   
-    Then it convert time into string using
-```  
+ 
+   #Then it convert time into string using
+ 
 strftime()
     
 ```  
