@@ -47,3 +47,11 @@ There are two types of typecasting in python </P>
  print(name[2:3]) #this print e
  print(name[1:5]) #this print leph
  #this above example is string slicing
+# Greeting program
+  <p>This program greet you according to your time .
+    It import time from your computer using 
+    `import time`
+    Then it convert time into string using
+    `strftime()`
+    After that greeting is done using elif codition as seen below :
+    ![alt text]()
