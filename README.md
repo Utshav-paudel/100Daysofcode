@@ -51,16 +51,14 @@ There are two types of typecasting in python </P>
   
 # Greeting program
   <p>This program greet you according to your time .
-    It import time from your computer using  
- ```    
- import time
+    It import time from your computer using 
     
- 
-   #Then it convert time into string using
+import time
+    
+#Then it convert time into string using
  
 strftime()
     
-```  
     
 After that greeting is done using elif codition as seen below :
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/93fbbe9995de8412ee7ee40ad2198a4bae846e40/images/day2.png)
