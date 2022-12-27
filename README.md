@@ -35,3 +35,15 @@ There are two types of typecasting in python </P>
 # Day 1 project Calculator :
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/c3f966a86f9b31b7ab15ca3c510dfb08c7e142f8/images/day1.png)
 
+# Day 2 
+  
+<p>Here in day 2 of codes I have learned about string slicing . String in python is similar to array .
+  </p>
+
+```
+  
+ name="Elephant"
+ length=len(name) #this len function provides the length of name
+ print(name[2:3]) #this print e
+ print(name[1:5]) #this print leph
+ #this above example is string slicing
