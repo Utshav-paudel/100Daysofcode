@@ -57,7 +57,8 @@ There are two types of typecasting in python </P>
  ```   
     Then it convert time into string using
   ```  
-    `strftime()`
+    strftime()
   ```  
+    
 After that greeting is done using elif codition as seen below :
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/93fbbe9995de8412ee7ee40ad2198a4bae846e40/images/day2.png)
