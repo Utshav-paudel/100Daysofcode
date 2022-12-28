@@ -62,3 +62,12 @@ strftime()
     
 After that greeting is done using elif codition as seen below :
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/93fbbe9995de8412ee7ee40ad2198a4bae846e40/images/day2.png)
+    
+# day3
+    
+    ### Match case statement 
+    
+    Match case is similar to switch case in c and c++ but there is no necesary of using break
+    If you donot know about c and c++
+    Match case is used to select case according to option here is a sample program:
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/5c6c149cad4c4ad67ca330a028c828d6187dce79/images/day3.png)
