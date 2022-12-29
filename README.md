@@ -100,3 +100,11 @@ It sort the list in ascending order
 It gives index of frist occurence of the list item
     
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/c47288693ca44e444e6a927b8bb489792378db55/images/day4.2.png)
+    
+here output will be 1 for colours list and 3 for num list .
+    
+#### list.count
+    
+It counts number the number of items of given value 
+for e.g `colors.count("green")`
+This will count number of time green occured in list colors 
