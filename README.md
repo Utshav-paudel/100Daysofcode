@@ -108,3 +108,9 @@ here output will be 1 for colours list and 3 for num list .
 It counts number the number of items of given value 
 for e.g `colors.count("green")`
 This will count number of time green occured in list colors 
+    
+All others important list method are as follows :
+{
+  ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/e2ec5aea55ef65ef785927616f4c51ebaf665b98/images/day4.3.png)
+    
+  ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/e2ec5aea55ef65ef785927616f4c51ebaf665b98/images/day4.4.png)
