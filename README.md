@@ -91,6 +91,6 @@ for e.g:
   
   #### list.sort()
     
-    It sort the list in ascending order 
+It sort the list in ascending order
     
-    ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/245832c2f68774d3a609da722b8b3992e3782a63/images/day4.1.png)
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/245832c2f68774d3a609da722b8b3992e3782a63/images/day4.1.png)
