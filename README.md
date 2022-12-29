@@ -94,3 +94,9 @@ for e.g:
 It sort the list in ascending order
     
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/245832c2f68774d3a609da722b8b3992e3782a63/images/day4.1.png)
+    
+#### list.index()
+     
+It gives index of frist occurence of the list item
+    
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/c47288693ca44e444e6a927b8bb489792378db55/images/day4.2.png)
