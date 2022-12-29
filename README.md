@@ -74,9 +74,9 @@ After that greeting is done using elif codition as seen below :
     
 # Day5
 ### List
- 
-    Is sequence data types in python that is a collection of sequence elements 
-    for e.g:
+   
+Is sequence data types in python that is a collection of sequence elements 
+for e.g:
 `lst=[1,2,56,"hari","alex",false]`
     
  Yes as you can see list can contains different data types.
