@@ -85,3 +85,12 @@ for e.g:
  Tuples is also similar to list but it cannot be changed (i.e immutable)
  Clear explanation of list is shown below
  ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/59128304cd86677286b6edf1c348fc0c3353813f/images/day4.png)
+
+ ### List method
+  There are various method to perform with list that help in program some of them are:
+  
+  #### list.sort()
+    
+    It sort the list in ascending order 
+    
+    ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/245832c2f68774d3a609da722b8b3992e3782a63/images/day4.1.png)
