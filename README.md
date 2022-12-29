@@ -72,11 +72,12 @@ After that greeting is done using elif codition as seen below :
     Match case is used to select case according to option here is a sample program:
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/5c6c149cad4c4ad67ca330a028c828d6187dce79/images/day3.png)
     
-# Day5
+# Day4
 ### List
    
 Is sequence data types in python that is a collection of sequence elements 
 for e.g:
+    
 `lst=[1,2,56,"hari","alex",false]`
     
  Yes as you can see list can contains different data types.
