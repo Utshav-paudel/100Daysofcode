@@ -114,3 +114,14 @@ All others important list method are as follows :
   ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/e2ec5aea55ef65ef785927616f4c51ebaf665b98/images/day4.3.png)
     
   ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/e2ec5aea55ef65ef785927616f4c51ebaf665b98/images/day4.4.png)
+    
+# Day5
+   
+Today we are going to learn about the tuples in python . Tuples are similar to list but it is immutable(i.e is it cannot be changed).
+It also hold collection of data items . Tuples items are separated with comma and enclosed with small brackets for e.g:
+    tuple=(1,4,6,7)
+    tuple=(1)
+    print(type(tuple)  #this is printed as class int it should contain one , to be tuple
+    tuple=(1,)         #this is printed as class tuple 
+##### Note : Tuples cannot be changed it is constant and use in cases where we want constant list .
+![alt enter](https://github.com/Peterpaudel/100Daysofcode/blob/4584edefb0d8a4ca56495ed1b7d8b17480db45b3/images/day5.png)
