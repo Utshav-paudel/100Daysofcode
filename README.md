@@ -122,8 +122,9 @@ It also hold collection of data items . Tuples items are separated with comma an
 
     tuple=(1,4,6,7)
     tuple=(1)
-    print(type(tuple)  #this is printed as class int it should contain one , to be tuple
-    tuple=(1,)         #this is printed as class tuple 
+    print(type(tuple))  #this is printed as class int it should contain one , to be tuple
+    tuple=(1,)           
+    print(type(tuple))  #this is printed as class tuple
     
 ##### Note : Tuples cannot be changed it is constant and use in cases where we want constant list .
 ![alt enter](https://github.com/Peterpaudel/100Daysofcode/blob/4584edefb0d8a4ca56495ed1b7d8b17480db45b3/images/day5.png)
