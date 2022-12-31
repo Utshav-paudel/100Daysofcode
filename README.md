@@ -132,3 +132,5 @@ It also hold collection of data items . Tuples items are separated with comma an
 # Day6
 Today I learned about the method on tuples . Tuples exactly is immutable so it does not have any method that changes data item but we can perform this by changing tuples into list changing data items and changing it to tuples . Although we can perform some operation like index,len,etc .
 Code for the method in tuples is shared below hope you get some insights .
+
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/80dff58495fd5b62d44aa44661f10ce792b65148/images/day6.png)
