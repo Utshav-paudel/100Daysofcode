@@ -117,7 +117,7 @@ All others important list method are as follows :
     
 # Day5
    
-Today we are going to learn about the tuples in python . Tuples are similar to list but it is immutable(i.e is it cannot be changed).
+Today we are going to learn about the tuples in python . Tuples are similar to list but it is immutable(i.e it cannot be changed).
 It also hold collection of data items . Tuples items are separated with comma and enclosed with small brackets for e.g:
 
     tuple=(1,4,6,7)
