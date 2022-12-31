@@ -128,3 +128,7 @@ It also hold collection of data items . Tuples items are separated with comma an
     
 ##### Note : Tuples cannot be changed it is constant and use in cases where we want constant list .
 ![alt enter](https://github.com/Peterpaudel/100Daysofcode/blob/4584edefb0d8a4ca56495ed1b7d8b17480db45b3/images/day5.png)
+
+# Day6
+Today I learned about the method on tuples . Tuples exactly is immutable so it does not have any method that changes data item but we can perform this by changing tuples into list changing data items and changing it to tuples . Although we can perform some operation like index,len,etc .
+Code for the method in tuples is shared below hope you get some insights .
