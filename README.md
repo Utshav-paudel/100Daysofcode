@@ -134,3 +134,5 @@ Today I learned about the method on tuples . Tuples exactly is immutable so it d
 Code for the method in tuples is shared below hope you get some insights .
 
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/80dff58495fd5b62d44aa44661f10ce792b65148/images/day6.png)
+
+# Update coming tomorrow
