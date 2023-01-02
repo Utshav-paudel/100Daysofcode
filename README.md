@@ -144,6 +144,21 @@ Code for the method in tuples is shared below hope you get some insights .
     print(f"{val} for {val} is a portal for {val}")
     
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/cb31e2c50667345c4ed21c81453d9659086e7548/images/day7.png)
+    
+### Docstrings
+Python docstrings are the string literals that appears right after the definition of function,class,method or module.
+Its like comment but its not ignored by python interpreter and cannot be used anywhere it mostly used to describe function workflow
+
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/bef684dc84d366f49f1c137c537b9c9bec0f87ca/images/day7.png)
+    
+### PEP 8
+PEP 8 is a guidline in python programming that makes python readable,maintainable and consistent . It stands for Python Enhancement Proposals
+    
+### Set
+Set is an unordered collection of data items in a single variable enclosed by curly braces and element separated by comma . Set doesnot contain duplicate item 
+![alt text](<img width="323" alt="image" src="https://user-images.githubusercontent.com/102865357/210263403-2bc47aed-de46-45ac-b1ff-9671c52e5a0d.png">
+)
+
 
  
 
