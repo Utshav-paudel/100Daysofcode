@@ -134,5 +134,17 @@ Today I learned about the method on tuples . Tuples exactly is immutable so it d
 Code for the method in tuples is shared below hope you get some insights .
 
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/80dff58495fd5b62d44aa44661f10ce792b65148/images/day6.png)
+    
+# Day7
+### f-string
+ f-string is a new string formatting mechanism that allow us to enter variable directly in between the string according to our format.
+ for e.g:
+ 
+    val="geek"
+    print(f"{val} for {val} is a portal for {val}")
+    
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/cb31e2c50667345c4ed21c81453d9659086e7548/images/day7.png)
+
+ 
 
 # Update coming tomorrow
