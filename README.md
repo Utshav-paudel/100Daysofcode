@@ -156,8 +156,7 @@ PEP 8 is a guidline in python programming that makes python readable,maintainabl
     
 ### Set
 Set is an unordered collection of data items in a single variable enclosed by curly braces and element separated by comma . Set doesnot contain duplicate item 
-![alt text](<img width="323" alt="image" src="https://user-images.githubusercontent.com/102865357/210263403-2bc47aed-de46-45ac-b1ff-9671c52e5a0d.png">
-)
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/dc5121c0f0733c8c27e2a5e4082100236f090538/images/day7.2.png)
 
 
  
