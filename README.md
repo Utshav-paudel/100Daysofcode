@@ -168,7 +168,7 @@ such function is called recursive function
     
 # Day9
 ### Methods on sets
-1.union() and update()
+#### 1.union() and update()
   union() helps to find the union of two sets and update helps to update the sets value.
     
     s1={1,4,5,7,9}
@@ -177,10 +177,10 @@ such function is called recursive function
     s1.update(s2)
     print(s1)
     
-2.intersection() and intersection_update()
+#### 2.intersection() and intersection_update()
   intersection() finds common value of two sets wherease intersection_update() update the sets with intersection.
     
-3.symmetric_difference() and symmetric_difference_update()
+##### 3.symmetric_difference() and symmetric_difference_update()
   symmetric_difference() gets items that are not similar on two sets and symmetric_difference_update() the sets with different items of two sets
     
    
