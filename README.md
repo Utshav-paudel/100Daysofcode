@@ -176,12 +176,22 @@ such function is called recursive function
     print(s1.union(s2))
     s1.update(s2)
     print(s1)
-    
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/94caa59a9b69ec41fc31f6b36c5f3784140367b8/images/day9(union%20and%20update).png)
 #### 2.intersection() and intersection_update()
   intersection() finds common value of two sets wherease intersection_update() update the sets with intersection.
-    
-##### 3.symmetric_difference() and symmetric_difference_update()
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/94caa59a9b69ec41fc31f6b36c5f3784140367b8/images/day9(difference%20and%20difference_update).png)
+#### 3.symmetric_difference() and symmetric_difference_update()
   symmetric_difference() gets items that are not similar on two sets and symmetric_difference_update() the sets with different items of two sets
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ed75cd2e3c6dfbeb06e97f91bcae6081b16462ed/images/day9(symmetric%20difference).png)  
+### 4. difference() and difference_update()
+difference() gets items that are not similar from original sets and difference_update() update the sets with difference items from original sets.
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ed75cd2e3c6dfbeb06e97f91bcae6081b16462ed/images/day9(difference).png)
+  
+### 4.discard() and remove()
+Remove is used to remove any items from sets and discard is also used to do same but discard doesnot raise error when item not present is discarded.
+
+
+    
     
    
 
