@@ -187,8 +187,10 @@ such function is called recursive function
 difference() gets items that are not similar from original sets and difference_update() update the sets with difference items from original sets.
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ed75cd2e3c6dfbeb06e97f91bcae6081b16462ed/images/day9(difference).png)
   
-### 4.discard() and remove()
-Remove is used to remove any items from sets and discard is also used to do same but discard doesnot raise error when item not present is discarded.
+# day10
+### Other sets methods
+Some of other sets methods that we can use are:
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ee1483cb0912d16477f904b686c16efa6aa44304/images/day10.png)
 
 
     
