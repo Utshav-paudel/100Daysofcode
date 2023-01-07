@@ -191,6 +191,11 @@ difference() gets items that are not similar from original sets and difference_u
 ### Other sets methods
 Some of other sets methods that we can use are:
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ee1483cb0912d16477f904b686c16efa6aa44304/images/day10.png)
+    
+# Day11
+# Dictionaries in python
+Dictionaries are ordered collection of data items. They store multiple items in a single variable.Dictionaries items are key-value pairs that are separated by commas and enclosed with curly brackets.
+    
 
 
     
