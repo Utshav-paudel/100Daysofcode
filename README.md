@@ -196,7 +196,9 @@ Some of other sets methods that we can use are:
 # Dictionaries in python
 Dictionaries are ordered collection of data items. They store multiple items in a single variable.Dictionaries items are key-value pairs that are separated by commas and enclosed with curly brackets.
     
-
+    dict={"name":"ram",
+    "age":"21"}
+    
 
     
     
