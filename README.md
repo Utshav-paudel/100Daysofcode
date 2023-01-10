@@ -1,6 +1,6 @@
 # 100Daysofcode
-#Welcome to my journey of 100 days of coding 
-##Everyday I will be updating what I learn that day here.
+### Welcome to my journey of 100 days of coding 
+### Everyday I will be updating what I learn that day here.
 
 # Day 1
 <p>Today I learned some basics in python like data types in python and about typecasting in python.
