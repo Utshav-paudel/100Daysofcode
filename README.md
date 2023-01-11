@@ -194,10 +194,13 @@ Some of other sets methods that we can use are:
     
 # Day11
 # Dictionaries in python
-Dictionaries are ordered collection of data items. They store multiple items in a single variable.Dictionaries items are key-value pairs that are separated by commas and enclosed with curly brackets.
+Dictionaries are ordered collection of data items. They store multiple items in a single variable.Dictionaries items are key-value pairs that are separated by commas and enclosed with curly brackets.Dictionaries doesnot allow duplicate items.
     
     dict={"name":"ram",
     "age":"21"}
+    print=(dict)
+    
+![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/05603fe735eb03a71ef43ab42451e6a734385372/images/day11.png)
     
 
     
