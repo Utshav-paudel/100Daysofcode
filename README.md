@@ -207,7 +207,7 @@ There are lots of methods in dictionaries some of them are listed below:
 
 #### 1.update()
 The update() methods update the values of the key provided else creates a new key:value pairs if the key used in update doesn't exists in that dictionaries.
-<bold>Example:</bold>
+<b>Example:</b>
 
     dict1={234:12,235:89,238:23}
     dict2={234:17,239:45}
@@ -216,6 +216,7 @@ The update() methods update the values of the key provided else creates a new ke
 Here,Since value of key 234 already exists i.e 12 gets overwrite as 17 dueto update methods
 whereas new key value pair is updated on dict1 i.e 239:45.
 sample program for update method is given below:
+    
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e46d1007b83309e71906f7a6261010287e58e5a2/images/day12.1.png)
     
 
