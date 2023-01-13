@@ -193,7 +193,7 @@ Some of other sets methods that we can use are:
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/ee1483cb0912d16477f904b686c16efa6aa44304/images/day10.png)
     
 # Day11
-# Dictionaries in python
+### Dictionaries in python
 Dictionaries are ordered collection of data items. They store multiple items in a single variable.Dictionaries items are key-value pairs that are separated by commas and enclosed with curly brackets.Dictionaries doesnot allow duplicate items.
     
     dict={"name":"ram",
@@ -201,6 +201,22 @@ Dictionaries are ordered collection of data items. They store multiple items in 
     print=(dict)
     
 ![alt text](https://github.com/Peterpaudel/100Daysofcode/blob/05603fe735eb03a71ef43ab42451e6a734385372/images/day11.png)
+# Day12
+### Dictionaries methods in python
+There are lots of methods in dictionaries some of them are listed below:
+
+#### 1.update()
+The update() methods update the values of the key provided else creates a new key:value pairs if the key used in update doesn't exists in that dictionaries.
+<bold>Example:</bold>
+
+    dict1={234:12,235:89,238:23}
+    dict2={234:17,239:45}
+    dict1.update(dict2)
+    
+Here,Since value of key 234 already exists i.e 12 gets overwrite as 17 dueto update methods
+whereas new key value pair is updated on dict1 i.e 239:45.
+sample program for update method is given below:
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e46d1007b83309e71906f7a6261010287e58e5a2/images/day12.1.png)
     
 
     
