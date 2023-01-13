@@ -205,7 +205,7 @@ Dictionaries are ordered collection of data items. They store multiple items in 
 ### Dictionaries methods in python
 There are lots of methods in dictionaries some of them are listed below:
 
-#### 1.update()
+#### 1. update()
 The update() methods update the values of the key provided else creates a new key:value pairs if the key used in update doesn't exists in that dictionaries.
 <br>
 <b>Example:</b>
@@ -219,6 +219,17 @@ whereas new key value pair is updated on dict1 i.e 239:45.
 sample program for update method is given below:<br>
     
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e46d1007b83309e71906f7a6261010287e58e5a2/images/day12.1.png)
+    
+#### 2. Removing items from dictionaries:
+    
+#### pop() and del :
+    
+pop() methods is used to remove key value pairs from dictionary and del is used to remove entire dictionary.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/248b24013cd46f95ab08af716b515efed28013a3/images/day12.2.png)
+    
+For learning more about dictionaries [dictionaries](https://docs.python.org/3/tutorial/datastructures.html)
+    
+    
     
 
     
