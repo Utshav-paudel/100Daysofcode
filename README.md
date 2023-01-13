@@ -227,7 +227,7 @@ sample program for update method is given below:<br>
 pop() methods is used to remove key value pairs from dictionary and del is used to remove entire dictionary.
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/248b24013cd46f95ab08af716b515efed28013a3/images/day12.2.png)
     
-For learning more about dictionaries [dictionaries](https://docs.python.org/3/tutorial/datastructures.html)
+For learning more about [dictionaries](https://docs.python.org/3/tutorial/datastructures.html)
     
     
     
