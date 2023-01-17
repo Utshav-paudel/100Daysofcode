@@ -252,6 +252,8 @@ one of the way of exception handling by using try and except
       num = int(input("Enter an integer: "))
     except ValueError:
       print("Number entered is not an integer.")
+    
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/2bc8234800f2617978c7a5b232cbcb75007cd49d/images/day14.png)
 
     
     
