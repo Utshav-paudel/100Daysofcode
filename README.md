@@ -243,15 +243,15 @@ one of the way of exception handling by using try and except
     try:
      #statements which could generate 
      #exception
-except:
+   except:
      #Soloution of generated exception
     
 #### Example :
 
     try:
-    num = int(input("Enter an integer: "))
-except ValueError:
-    print("Number entered is not an integer.")
+     num = int(input("Enter an integer: "))
+   except ValueError:
+     print("Number entered is not an integer.")
     
     
     
