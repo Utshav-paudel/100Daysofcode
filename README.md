@@ -270,10 +270,10 @@ finally is executed no matter what error occured or not (it also executed if it 
               #execute in any situation
     
 ### Example:
-    ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.1(finally%20exception%20handling).png)
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.1(finally%20exception%20handling).png)
     
 ### Output:
-    ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.3(finally%20output).png)
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.3(finally%20output).png)
 
     
     
