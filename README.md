@@ -274,10 +274,7 @@ finally is executed no matter what error occured or not (it also executed if it 
     
 ### Output:
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.3(finally%20output).png)
-
-    
-    
-
+In the above index is out of range so error occured and code inside except: is executed and after that code inside finally: is executed.Code inside finally: is executed whether error occurs or doesnot occurs.
     
     
    
