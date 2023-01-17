@@ -233,6 +233,25 @@ For learning more about [dictionaries](https://docs.python.org/3/tutorial/datast
 Today I am creating KBC(Kaun banega crorepati) using my concepts of loop and list .
 Here is the code ,Hope you get some insight
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/9ce08a5f1457450bc356db10fe018b6a00d40c13/images/day13.png)
+# Day 14
+### Exception handling :
+Exception handling is the way of dealing with unwanted errors in programs.
+one of the way of exception handling by using try and except
+### try and expect:
+#### Syntax: 
+    
+    try:
+     #statements which could generate 
+     #exception
+except:
+     #Soloution of generated exception
+    
+#### Example :
+
+    try:
+    num = int(input("Enter an integer: "))
+except ValueError:
+    print("Number entered is not an integer.")
     
     
     
