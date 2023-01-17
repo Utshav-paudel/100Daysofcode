@@ -232,6 +232,7 @@ For learning more about [dictionaries](https://docs.python.org/3/tutorial/datast
 # Day 13
 Today I am creating KBC(Kaun banega crorepati) using my concepts of loop and list .
 Here is the code ,Hope you get some insight
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/9ce08a5f1457450bc356db10fe018b6a00d40c13/images/day13.png)
     
     
     
