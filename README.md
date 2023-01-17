@@ -254,6 +254,26 @@ one of the way of exception handling by using try and except
       print("Number entered is not an integer.")
     
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/2bc8234800f2617978c7a5b232cbcb75007cd49d/images/day14.png)
+    
+### Finally clause:
+Finally is also type of exception handling  it is use when some statement or code had to be excecuted anyway .
+finally is executed no matter what error occured or not (it also executed if it is running after return 0)
+### Syntax: 
+
+              try:
+             #statements which could generate 
+             #exception
+          except:
+             #solution of generated exception
+          finally:
+              #block of code which is going to 
+              #execute in any situation
+    
+### Example:
+    ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.1(finally%20exception%20handling).png)
+    
+### Output:
+    ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.3(finally%20output).png)
 
     
     
