@@ -281,8 +281,14 @@ In the above index is out of range so error occured and code inside except: is e
 In python, we can create custom error by using `raise` keyword .
 We raise error to throw the exception from program .
 Lets see a example:
-**Objective:**To throw error if user enter number not between 1-4.
+** Objective: **To throw error if user enter number not between 1-4.
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/896630d72319225dedf3c67fec86cd2da61bbcda/images/day15.png)
+    
+### if....else in one line
+There is a shorthand syntax for if...else statement that can be used when condition is simple and codeblocks to be executed is short.
+`Caution:`It is not used when codeblock is long and complex as this reduce code readability.
+Here is a sample example :
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/4fce9737af324129a0bb28d60b2aeca04d994257/images/day15.1(shorthand%20if%20else).png)
    
 
     
