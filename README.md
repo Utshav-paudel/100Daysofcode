@@ -229,11 +229,11 @@ pop() methods is used to remove key value pairs from dictionary and del is used 
     
 For learning more about [dictionaries](https://docs.python.org/3/tutorial/datastructures.html)
 
-# Day 13
+# Day13
 Today I am creating KBC(Kaun banega crorepati) using my concepts of loop and list .
 Here is the code ,Hope you get some insight
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/9ce08a5f1457450bc356db10fe018b6a00d40c13/images/day13.png)
-# Day 14
+# Day14
 ### Exception handling :
 Exception handling is the way of dealing with unwanted errors in programs.
 one of the way of exception handling by using try and except
@@ -276,8 +276,13 @@ finally is executed no matter what error occured or not (it also executed if it 
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b42bf4f6336259efaca9453664ad69e8547022a7/images/day14.3(finally%20output).png)
 
 In the above index is out of range so error occured and code inside except: is executed and after that code inside finally: is executed.Code inside finally: is executed whether error occurs or doesnot occurs.
-    
-    
+# Day15    
+#### Raising custom error in python 
+In python, we can create custom error by using `raise` keyword .
+We raise error to throw the exception from program .
+Lets see a example:
+**Objective:**To throw error if user enter number not between 1-4.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/896630d72319225dedf3c67fec86cd2da61bbcda/images/day15.png)
    
 
     
