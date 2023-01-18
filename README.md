@@ -260,7 +260,7 @@ Finally is also type of exception handling  it is use when some statement or cod
 finally is executed no matter what error occured or not (it also executed if it is running after return 0)
 ### Syntax: 
 
-              try:
+          try:
              #statements which could generate 
              #exception
           except:
