@@ -289,6 +289,9 @@ There is a shorthand syntax for if...else statement that can be used when condit
 `Caution:`It is not used when codeblock is long and complex as this reduce code readability.
 Here is a sample example :
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/4fce9737af324129a0bb28d60b2aeca04d994257/images/day15.1(shorthand%20if%20else).png)
+    
+# sample image
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d5fc98d194b41de647af861b131b90642ac0f611/images/day1.png)
    
 
     
