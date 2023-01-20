@@ -1,6 +1,7 @@
 # 100Daysofcode
-### Welcome to my journey of 100 days of coding 
-### Everyday I will be updating what I learn that day here.
+### Welcome to my journey of 100 days of coding I will be starting from python basic to advance
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e7ee7319e636cdee1503cfe6611303c2a91d5b28/images/100daysofcode.png)
+
 
 # Day 1
 <p>Today I learned some basics in python like data types in python and about typecasting in python.
