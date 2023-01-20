@@ -290,6 +290,22 @@ There is a shorthand syntax for if...else statement that can be used when condit
 `Caution:`It is not used when codeblock is long and complex as this reduce code readability.
 Here is a sample example :
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/4fce9737af324129a0bb28d60b2aeca04d994257/images/day15.1(shorthand%20if%20else).png)
+    
+# Day16
+### Object Oriented Programming
+lets get start with some difference betweem POP and OOP
+Procedure Oriented Programming(POP): Total activity is divided into multiple functions and we call those based on our requirements.
+Object Oriented Programming(OOp) : Total activity is divided into realtime entities called objects.
+* ** Class ** : Class is a blueprint/model which contains different entity inside it like properties(variable) and method(actions) which is inherited by objects.
+* ** Objects ** : Objects is the physical existence of class.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/12ea7a5ff67055b3d7e5119c666257236970d312/images/day16%20class%20and%20object%20difference.png)
+    
+Here is a simplest program that reflects OOP in python :
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/12ea7a5ff67055b3d7e5119c666257236970d312/images/day16%20(class%20and%20objects).png)
+    
+ 
+    
+    
 
    
 
