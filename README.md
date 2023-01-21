@@ -302,7 +302,20 @@ Object Oriented Programming(OOp) : Total activity is divided into realtime entit
     
 Here is a simplest program that reflects OOP in python :
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/12ea7a5ff67055b3d7e5119c666257236970d312/images/day16%20(class%20and%20objects).png)
-    
+
+# Day17
+### File handling 
+Before performing any operation on file we have to know about the modes of file handling 
+* Read : 'r' it allows reading file 
+* Write : 'w' it allows to write in file 
+* Append : 'a' it allows to append in file
+
+Here is simplest program to clear your basic in filehandling
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/bd7fb9cd630c002e2432142a9ace11fefbfde348/images/day17.png)    
+
+You can practice more on file handling ![Click here for read fiel](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20read%20file.ipynb)
+
+You can practice more on file handling ![Click here for write fiel](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20write%20file.ipynb)
  
     
     
