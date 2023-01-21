@@ -313,9 +313,9 @@ Before performing any operation on file we have to know about the modes of file 
 Here is simplest program to clear your basic in filehandling
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/bd7fb9cd630c002e2432142a9ace11fefbfde348/images/day17.png)    
 
-You can practice more on file handling ![Click here for read fiel](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20read%20file.ipynb)
+You can practice more on file handling [Click here for read in filehandling](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20read%20file.ipynb)
 
-You can practice more on file handling ![Click here for write fiel](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20write%20file.ipynb)
+You can practice more on file handling [Click here for write in filehandling](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20write%20file.ipynb)
  
     
     
