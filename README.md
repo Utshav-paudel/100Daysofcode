@@ -56,7 +56,7 @@ There are two types of typecasting in python </P>
     
 import time
     
-#Then it convert time into string using
+### Then it convert time into string using
  
 strftime()
     
@@ -76,7 +76,7 @@ After that greeting is done using elif codition as seen below :
 # Day4
 ### List
    
-Is sequence data types in python that is a collection of sequence elements 
+It is a sequence data types in python that is a collection of sequence of  elements.
 for e.g:
     
 `lst=[1,2,56,"hari","alex",false]`
