@@ -6,8 +6,8 @@
 # Day 1
 <p>Today I learned some basics in python like data types in python and about typecasting in python.
 There are two types of typecasting in python </P>
-1.Implicit typecasting
-  conversion data types by program itself for e.g: 
+1.Implicit typecasting:
+conversion data types by program itself for e.g: 
   
 ```
   a=10
@@ -18,10 +18,9 @@ There are two types of typecasting in python </P>
    
  ```
  
-2. Explicit typecasting
-  
-<p>conversion of data types by programmer is called explicit typecasting .
-  for e.g :</p>
+2. Explicit typecasting:
+conversion of data types by programmer is called explicit typecasting .
+  for e.g :
   <break>
   
  ```
@@ -38,7 +37,7 @@ There are two types of typecasting in python </P>
 
 # Day 2 
   
-<p>Here in day 2 of codes I have learned about string slicing . String in python is similar to array .
+<p>Here is day2 codes I have learned about string slicing . String in python is similar to array .
   </p>
 
 ```
