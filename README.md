@@ -317,7 +317,12 @@ You can practice more on file handling [Click here for read in filehandling](htt
 You can practice more on file handling [Click here for write in filehandling](https://github.com/Utshav-paudel/100Daysofcode/blob/d8e2e0436a7fd8c63329e93ccceb0e8546abf2c1/jupyternotebook/filehandling%20write%20file.ipynb)
  
     
-    
+# Day18
+### Enumerate funciton in python:
+Enumerate function is a built in function in pythons that allows you to loop over a sequence such as list,tuple,string and get the `index` and value of element at the sametime. Some basic examples on how it works are shown below :
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b5a1f1590a9914ddbf2d392fd229f74db8e2411e/images/day18.png)
+
+
 
    
 
