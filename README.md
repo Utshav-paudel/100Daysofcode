@@ -323,12 +323,37 @@ Enumerate function is a built in function in pythons that allows you to loop ove
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b5a1f1590a9914ddbf2d392fd229f74db8e2411e/images/day18.png)
 # Day19
 ### Importing in python:
-Importing in python is the process of loading code from a python module to the current script.This allows you to use functions and variables defined in the module in your current script.
+Importing in python is the process of loading code from a python module to the current script.This allows you to use functions and variables defined in the module in your current script. You can simply import any module by writing import followed by the name of the module.
 for e.g:
 ```python
 import math
 ```
+After importing math function as shown above you can use various function provided by math module like sqrt(),floor() and manymore
 
+sample:
+
+```python
+    import math 
+    square_root=sqrt(9)            
+    floor_number=floor(4.676)
+```
+### from keyword
+from keyword is used to import specific function from module .
+```python
+    from math import sqrt
+```
+### importing everything
+we can everything available on module by using  from followed by module* But this isnot recommended because it make harder to understand where the specific function and variables are coming from.
+```python
+from  math import*
+```
+### the 'as' keyword
+We can rename the module in python by the use of as keyword 
+for e.g:
+```python
+import pandas as pd
+import math as m
+```
 
 
 
