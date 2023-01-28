@@ -1,7 +1,7 @@
 # 100Daysofcode
 ### Welcome to my journey of 100 days of coding I will be starting from python basic to advance
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e7ee7319e636cdee1503cfe6611303c2a91d5b28/images/100daysofcode.png)
-| Projects |
+| Projects Completed|
 | -------- |
 |1.[**Rock,paper and scissors**](https://github.com/Utshav-paudel/python-project/blob/52492569a6fd370715038381271212741a8f8256/day4.6%20rock%20paper%20scissore.py)|
 |2.[**Kaun bangega crorepati**](https://github.com/Utshav-paudel/python-project/blob/f245d82d6a740061001ef4e8759fc683a4879e18/KBC.py) |
