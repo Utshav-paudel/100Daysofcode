@@ -1,6 +1,10 @@
 # 100Daysofcode
 ### Welcome to my journey of 100 days of coding I will be starting from python basic to advance
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/e7ee7319e636cdee1503cfe6611303c2a91d5b28/images/100daysofcode.png)
+| Projects |
+| -------- |
+|1.[**Rock,paper and scissors**](https://github.com/Utshav-paudel/python-project/blob/52492569a6fd370715038381271212741a8f8256/day4.6%20rock%20paper%20scissore.py)|
+|2.[**Kaun bangega crorepati**](https://github.com/Utshav-paudel/python-project/blob/f245d82d6a740061001ef4e8759fc683a4879e18/KBC.py) |
 
 
 # Day 1
@@ -347,15 +351,21 @@ we can everything available on module by using  from followed by module* But thi
 ```python
 from  math import*
 ```
-### the 'as' keyword
+### The 'as' keyword
 We can rename the module in python by the use of as keyword 
 for e.g:
 ```python
 import pandas as pd
 import math as m
 ```
-
-
+### The dir function
+Python has built in function dir that allow you to view all the functions and variable available in modules.It help to understand and explore new module .
+    
+for e.g:
+```python
+import math
+print(dir(math))
+  ```
 
 
    
