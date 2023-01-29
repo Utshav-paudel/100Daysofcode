@@ -367,7 +367,18 @@ import math
 print(dir(math))
   ```
 
-
+# Day20
+### if __name__=="__main__" in python
+This is a common idom used in python to determine whether the module imported should run directly or use as module . So  when we import any module it get executed 
+directly in our script and to avoid this direct execution we used **__name__=="__main__".
+one sample is given below:
+### Before using **__name__=="__main__"**
+We can see that welcome() function is run directly after importing side module in main script .
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/51c29591d43b7ef38334668f064a292911f3c2b8/images/day20(before%20using%20of%20name==main%20idom).png)
+## After using **__name__=="__main__"** welcome() function is not executed direclty.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/dcc57ae4b1f1bc69e4ccb430621ee6d75f31227f/images/day20(after%20using%20name==main%20idom).png)
+So the main use of **__name__=="__main__"** is to import any module without running it functions directly.
+   
    
 
     
