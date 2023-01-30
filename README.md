@@ -380,7 +380,17 @@ We can see that welcome() function is running directly after importing side modu
 So the main use of ```__name__=="__main__"``` is to import any module without running it functions directly.
    
    
-
+# Day21
+### Lambda Function 
+This funcion is also known as anonymous function in python because it does have any name like function but behaves like function
+syntax:
+```lambda_expression= lamda (parameter list)=expression```
+For e.g:
+```python
+f= lambda a:a*a
+print(f(5))
+```
+Above lamda function is used to find square
     
     
     
