@@ -6,6 +6,23 @@
 |1.[**Rock,paper and scissors**](https://github.com/Utshav-paudel/python-project/blob/52492569a6fd370715038381271212741a8f8256/day4.6%20rock%20paper%20scissore.py)|
 |2.[**Kaun bangega crorepati**](https://github.com/Utshav-paudel/python-project/blob/f245d82d6a740061001ef4e8759fc683a4879e18/KBC.py) |
 
+# Core python 
+|**Core python**|
+|---------------|
+|1.Language Fundamentals|
+|2.Operators|
+|3.Input and Output statements|
+|4.Flow Control|
+|5.Strings|
+|6.List Data Structure|
+|7.Tuple Data Structure|
+|8.Set Data Structure|
+|9.Dictonary Data Structure|
+|10.Functions|
+|11.Modules|
+|12.Packages|
+
+
 
 # Day 1
 <p>Today I learned some basics in python like data types in python and about typecasting in python.
@@ -392,7 +409,10 @@ print(f(5))
 ```
 Above lamda function is used to find square
     
-    
+# Day22
+From today I am going to start advanced python.
+Topics to cover on advance python:
+
     
 
 
