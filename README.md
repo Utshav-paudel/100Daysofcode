@@ -429,5 +429,6 @@ From today I am going to start covering this topic
 |5.Scikit learn|
 |6.Plotly|
 
- 
+ ### Numpy
+ Numpy(Numerical Python) is a python library used for working with arrays.It also has a functions for working in domain of linear algebra,fourier transform and matrices.The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.
 
