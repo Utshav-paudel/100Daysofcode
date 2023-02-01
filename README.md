@@ -22,15 +22,6 @@
 |11.Modules|
 |12.Packages|
 
-### Python for Data science and Ml
-|**Pythons for data science and ml**|
-|---------------|
-|1.Numpy|
-|2.Pandas|
-|3.Matplotlib |
-|4.Seaborn |
-|5.Scikit learn|
-|6.Plotly|
 
 # Day 1
 <p>Today I learned some basics in python like data types in python and about typecasting in python.
@@ -417,18 +408,3 @@ print(f(5))
 ```
 Above lamda function is used to find square
     
-# Day22
-From today I am going to start covering this topic 
-
-|**Pythons for data science and ml**|
-|---------------|
-|1.Numpy|
-|2.Pandas|
-|3.Matplotlib |
-|4.Seaborn |
-|5.Scikit learn|
-|6.Plotly|
-
- ### Numpy
- Numpy(Numerical Python) is a python library used for working with arrays.It also has a functions for working in domain of linear algebra,fourier transform and matrices.The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.
-
