@@ -407,4 +407,18 @@ f= lambda a:a*a
 print(f(5))
 ```
 Above lamda function is used to find square
+
+# Day22
+### Webscrapping 
+Web scraping refers to the extraction of data from a website. This information is collected and then exported into a format that is more useful for the user.
+
+* first we will install request library by using requests library, we can fetch the content from the URL given
+```python
+pip install requests
+```
+* Also we will install beautiful soup that helps to parse(change format) data and fetch the details the way we want. You can use a beautiful soup library to fetch data using Html tag, class, id, css selector and many more ways.
+```python
+pip install beautifulsoup4
+```
+
     
