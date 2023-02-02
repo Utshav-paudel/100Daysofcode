@@ -420,5 +420,9 @@ pip install requests
 ```python
 pip install beautifulsoup4
 ```
-
-    
+I am going to show you a sample of scrapping method and final results of it in excel file 
+* Scrapped website [Link](https://webscraper.io/test-sites/e-commerce/allinone/computers/tablets)
+* Code to scrap is given below :
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/dd706441cafaa4e1374d620215a33d6134d467f7/images/day22.png)   
+* beautiful data after scrapping:
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0937bf6d6fde35fd2c7c0965845035a08dfd9a86/images/day22(scrapped%20data).png)
