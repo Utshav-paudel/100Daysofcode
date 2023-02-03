@@ -434,9 +434,9 @@ You can learn more on HTTP and requests [from here](https://github.com/Utshav-pa
     
 # Day23
 Today we are applying our learning and scrapping data from website of tata ipl auction 2022
-*Here is the sample code that does all our scrapping:
+* Here is the sample code that does all our scrapping:
   
-[alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23.png)
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23.png)
     
-*Data obtained after scrapping:
-[alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23(scrapped%20data).png)
+* Data obtained after scrapping:
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23(scrapped%20data).png)
