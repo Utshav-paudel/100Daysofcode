@@ -431,3 +431,12 @@ I am going to show you a sample of scrapping method and final results of it in e
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0937bf6d6fde35fd2c7c0965845035a08dfd9a86/images/day22(scrapped%20data).png)
 
 You can learn more on HTTP and requests [from here](https://github.com/Utshav-paudel/100Daysofcode/blob/46d4893b6d0336ee3b33359efd3e99db92595aa3/jupyternotebook/Requests_HTTP.ipynb)
+    
+# Day23
+Today we are applying our learning and scrapping data from website of tata ipl auction 2022
+*Here is the sample code that does all our scrapping:
+  
+[alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23.png)
+    
+*Data obtained after scrapping:
+[alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23(scrapped%20data).png)
