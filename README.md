@@ -466,5 +466,7 @@ Map function simply performs the function on the given iterable sequence and ret
  reduce(function,iterable)
  ```
  Return is also similar higher oder function but it returns a single value output not  a list or sequence of data and ```it needs to be imported from functools.
+    
+   
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/692398c8ed0bfccf5fdccb0b4807542fbe595553/images/day24(reduce).png)
  
