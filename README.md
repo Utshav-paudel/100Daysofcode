@@ -440,3 +440,31 @@ Today we are applying our learning and scrapping data from website of tata ipl a
     
 * Data obtained after scrapping:
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/35ba7e062a60e3cca244f7831414672860a23ef3/images/day23(scrapped%20data).png)
+# Day24
+### Map,reduce and filters function in python.
+In python map,reduce and filters are built in function that allows you to apply a function to the sequence of element and returns a new sequence.These functions are called higher order function because they takes functions as arguments.
+```Note:we can use lamda fucntion to make it more easier and efficient```
+lets learn each of them .
+* <strong>Map function</strong>
+Map function simply performs the function on the given iterable sequence and return a whole new sequence of data.
+ syntax:
+ ```python
+ map(function,iterable)
+ ```
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/692398c8ed0bfccf5fdccb0b4807542fbe595553/images/day24(map).png)
+ 
+ * <strong>Filter</strong>
+ Filter simply filter the sequential data according to our defined predicates(i.e function) and give us selected data that passes condition after filtering.
+ syntax:
+ ```python
+ filter(predicate_function,iterable)
+ ```
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/692398c8ed0bfccf5fdccb0b4807542fbe595553/images/day24(filter).png)
+ * <strong>Reduce</strong>
+ ```python
+ from functools import reduce
+ reduce(function,iterable)
+ ```
+ Return is also similar higher oder function but it returns a single value output not  a list or sequence of data and ```it needs to be imported from functools.
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/692398c8ed0bfccf5fdccb0b4807542fbe595553/images/day24(reduce).png)
+ 
