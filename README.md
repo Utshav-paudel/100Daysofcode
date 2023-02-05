@@ -469,4 +469,6 @@ Map function simply performs the function on the given iterable sequence and ret
     
    
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/692398c8ed0bfccf5fdccb0b4807542fbe595553/images/day24(reduce).png)
- 
+ # Day25 
+ Today I created a project using python which is coffe machine.
+ [Click here for its code](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)
