@@ -472,3 +472,11 @@ Map function simply performs the function on the given iterable sequence and ret
  # Day25 
  Today I created a project using python which is coffe machine.
  [Click here for its code](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)
+ 
+ # Day26
+ ### Importing packages reading its documentation and using it
+ Python has lots of library to use we can simply use it by installing it ,importing it and reading documentataion to use it.
+ Here is the sample of me using ```PrettyTable``` library by installing it,importing it.
+ 
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0bfb546b7ef1bdab706db6577c289aa31a91d0a2/images/day26.png)
+ 
