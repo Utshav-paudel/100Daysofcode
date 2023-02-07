@@ -5,7 +5,7 @@
 | -------- |
 |1.[**Rock,paper and scissors**](https://github.com/Utshav-paudel/python-project/blob/52492569a6fd370715038381271212741a8f8256/day4.6%20rock%20paper%20scissore.py)|
 |2.[**Kaun bangega crorepati**](https://github.com/Utshav-paudel/python-project/blob/f245d82d6a740061001ef4e8759fc683a4879e18/KBC.py) |
-
+|3.[**Coffee machine**](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)
 ### Core python 
 |**Core python**|
 |---------------|
