@@ -481,10 +481,15 @@ Map function simply performs the function on the given iterable sequence and ret
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0bfb546b7ef1bdab706db6577c289aa31a91d0a2/images/day26.png)
  
  # Day27
- ### OOP is the main usecase of python and many other programming languages that solves realworld problems.
+ #### OOP is the main usecase of python and many other programming languages that solves realworld problems.
  In Day16 We have discussed basic of object and class . Today we are going to discuss about different concepts of OOP in python like:
- * ### The ```__init__()``` Function
+ * #### The ```__init__()``` function
  This function is always initiated when the class is being iniated . It passes values to object properties, or other operations that are necessary to do when the object is being created.
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/3e4c59900ab511763c3cf1a6d52b7930084ffc2b/images/day27(the__inti__function).png)
+ 
+* #### The ```__str__()``` function
+The __str__() function controls what should be returned when the class object is represented as a string.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/a22df59805b9fae296b85010c70f6ced44729672/images/day27(__str__()fucntion).png)
+    
  
  
