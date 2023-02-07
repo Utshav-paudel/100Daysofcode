@@ -491,5 +491,9 @@ Map function simply performs the function on the given iterable sequence and ret
 The __str__() function controls what should be returned when the class object is represented as a string.
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/a22df59805b9fae296b85010c70f6ced44729672/images/day27(__str__()fucntion).png)
     
+#### Objects method
+Objects method is the function in objects. Let create a sample object method 
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f1773e78980e3265bfb41864e25425d422bfd38f/images/day27%20object%20method.png)
+    
  
  
