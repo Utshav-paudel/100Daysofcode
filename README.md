@@ -494,6 +494,14 @@ The __str__() function controls what should be returned when the class object is
 #### Objects method
 Objects method is the function in objects. Let create a sample object method 
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f1773e78980e3265bfb41864e25425d422bfd38f/images/day27%20object%20method.png)
+
+# Day28
+### Turtle graphics and using it to make arts :
+Before learning about turtle graphics let us see about importing ways once.
+* from import_module import class_or_function 
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f0dca120c71e4bdab1aa5a80bc1f1426d54f4cae/images/day28(import%20).png)
+* from import_module import*
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f0dca120c71e4bdab1aa5a80bc1f1426d54f4cae/images/day28%20import%20everything.png)
     
  
  
