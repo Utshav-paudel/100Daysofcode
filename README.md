@@ -503,5 +503,11 @@ Before learning about turtle graphics let us see about importing ways once.
 * from import_module import*
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f0dca120c71e4bdab1aa5a80bc1f1426d54f4cae/images/day28%20import%20everything.png)
     
- 
+ Always remember to break down your poblem,write pseudo code and start coding .
+ Here is a sample solution of problem that I created ,You can understand problem and solution by reading code and comments.
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/3288dd683cf5cf459ada2cdc25257dded1fa2d9a/images/day28%20problem.png)
+    
+ Output:
+    
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/3288dd683cf5cf459ada2cdc25257dded1fa2d9a/images/day28%20solving%20problem%20output.png)
  
