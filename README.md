@@ -519,10 +519,11 @@ Before learning about turtle graphics let us see about importing ways once.
     
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0a77accbd3ae73c6875ff21a04b9300f22838f95/images/day29random%20walk.png)
  
- ### creating spirograph 
+ ### Creating spirograph 
  * code:
+    
  ![spirograph code](https://github.com/Utshav-paudel/100Daysofcode/blob/9eaa626c9feb758282143e25e363f47a9cfd301a/images/day29%20spirograph.png)
    
- * Output:
+* Output:
     
  ![spirograph output](https://github.com/Utshav-paudel/100Daysofcode/blob/9eaa626c9feb758282143e25e363f47a9cfd301a/images/day29%20creating%20spirograph.png)
