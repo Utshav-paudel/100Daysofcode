@@ -516,5 +516,6 @@ Before learning about turtle graphics let us see about importing ways once.
  * solution:
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0a77accbd3ae73c6875ff21a04b9300f22838f95/images/day29randomwalkcode.png)
  * output:
+    
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0a77accbd3ae73c6875ff21a04b9300f22838f95/images/day29random%20walk.png)
  
