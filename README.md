@@ -527,3 +527,18 @@ Before learning about turtle graphics let us see about importing ways once.
 * Output:
     
  ![spirograph output](https://github.com/Utshav-paudel/100Daysofcode/blob/9eaa626c9feb758282143e25e363f47a9cfd301a/images/day29%20creating%20spirograph.png)
+ 
+ # Day30
+ Today I learned to create hirst painting which is sold in millon dollars in muesum using python.
+ This learning is helping me to build strong problem solving and programming logic .
+ * **Hirst painting** : We have to create similar painting
+ 
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/07b647d65d941915f02ffc28316f4ed7cfe67e18/images/day30%20objective.png)
+ 
+ * **Code**: My code is as follow
+ 
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/07b647d65d941915f02ffc28316f4ed7cfe67e18/images/day30%20code.png)
+ 
+ * **Output** : Here is final result
+ 
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/07b647d65d941915f02ffc28316f4ed7cfe67e18/images/day30.png)
