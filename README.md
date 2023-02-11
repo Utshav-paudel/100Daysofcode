@@ -544,10 +544,10 @@ Before learning about turtle graphics let us see about importing ways once.
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/07b647d65d941915f02ffc28316f4ed7cfe67e18/images/day30.png)
  
  # Day31
- ### Woriking with turtle graphics 
+ ### Working with turtle graphics 
  #### Creating drawing app
  Using turlte I created a screen where user can draw and erase by themself
- ** Code **
+#### CODE
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f27f65a5ba91f9fc9cf937e0aa573df4a47358b0/images/day31.png)
- ** Output **
+#### Output
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f27f65a5ba91f9fc9cf937e0aa573df4a47358b0/images/day31%20drawing%20output.png)
