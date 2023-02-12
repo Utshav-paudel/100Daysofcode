@@ -5,7 +5,8 @@
 | -------- |
 |1.[**Rock,paper and scissors**](https://github.com/Utshav-paudel/python-project/blob/52492569a6fd370715038381271212741a8f8256/day4.6%20rock%20paper%20scissore.py)|
 |2.[**Kaun bangega crorepati**](https://github.com/Utshav-paudel/python-project/blob/f245d82d6a740061001ef4e8759fc683a4879e18/KBC.py) |
-|3.[**Coffee machine**](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)
+|3.[**Coffee machine**](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)|
+|4.[**Betting on turtle race game**](https://github.com/Utshav-paudel/100Daysofcode/blob/ffa55b2723c0efa577db88d91162810966088a0e/code/day31/tutlerace.py)
 ### Core python 
 |**Core python**|
 |---------------|
@@ -551,3 +552,16 @@ Before learning about turtle graphics let us see about importing ways once.
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f27f65a5ba91f9fc9cf937e0aa573df4a47358b0/images/day31.png)
 #### Output
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/f27f65a5ba91f9fc9cf937e0aa573df4a47358b0/images/day31%20drawing%20output.png)
+# Day32 
+## Turtle Betting race game
+I have created a very fun project where six different color turtle are racing , you can bet on any color of turtle and at last winner turtle will be declared,If winner is similar to bet you will won .
+This projects has been very fun it uses many concepts of python like loop,list,modules.
+Here is a code for this project hope you get some insight
+# Code
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbda82c04134fe491e03e3feb42abfcd912c43d9/images/day32%20code.png)
+# Input prompt
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbda82c04134fe491e03e3feb42abfcd912c43d9/images/day32%20bet.png)
+# Output
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b47727bec31d5cf6320b86733522330877a9265a/images/day31%20output.png)
+
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbda82c04134fe491e03e3feb42abfcd912c43d9/images/day32%20final%20output.png)
