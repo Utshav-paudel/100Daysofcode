@@ -565,3 +565,11 @@ Here is a code for this project hope you get some insight
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/b47727bec31d5cf6320b86733522330877a9265a/images/day31%20output.png)
 
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbda82c04134fe491e03e3feb42abfcd912c43d9/images/day32%20final%20output.png)
+# Day33
+Today I started to create snake game and it challenge my logic to core mainly to create the movement of segment it was challenging.
+### Task completed so far:
+* screen
+* snake body
+* segment movement , snake movement
+Here is a code which will be completed tomorrow for full game
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0f882e0afff37ca7bd0939b10db86f1ef29f1029/images/day33%20snake%20code.png)
