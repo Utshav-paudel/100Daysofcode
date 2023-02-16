@@ -573,3 +573,13 @@ Today I started to create snake game and it challenge my logic to core mainly to
 * segment movement , snake movement
 Here is a code which will be completed tomorrow for full game
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/0f882e0afff37ca7bd0939b10db86f1ef29f1029/images/day33%20snake%20code.png)
+    
+# Day34
+Today I continued snake game and made snake to move according to botton,created food,made snake to eat food .
+It is still incomplete
+### Task completed so far:
+* movement of snake
+* food
+* consuming food by snake
+You can check the code of till data ![here](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day34)
+
