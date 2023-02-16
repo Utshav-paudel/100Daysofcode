@@ -581,5 +581,5 @@ It is still incomplete
 * movement of snake
 * food
 * consuming food by snake
-You can check the code of till data ![here](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day34)
+You can check the code of till data [here](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day34)
 
