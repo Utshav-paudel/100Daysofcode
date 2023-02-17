@@ -583,3 +583,13 @@ It is still incomplete
 * consuming food by snake
 You can check the code of till data [here](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day34)
 
+# Day35
+Today I completed the snake game and in total it was awesome and very fun projects . 
+Here is sample of how game looks like
+![snake game ](https://github.com/Utshav-paudel/100Daysofcode/blob/76b67320225331b9a7b0cabf6d23d6536129fad9/images/day35.png)
+
+You can check this game by 
+* first run this on terminal
+```pip install turtle```
+* And download [this](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day35) and run 
+
