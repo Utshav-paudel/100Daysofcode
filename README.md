@@ -594,3 +594,9 @@ You can check this game by
 ```pip install turtle```
 * And download [this](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day35) and run 
 
+# Day36
+Today I continued my learning on webscraping and scraped a website .
+* **note**: find_all create list
+Here is a sample code that find joblist from timejobs website.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/833ceaf26e7f591ab934d5c0d6952ed4c83cb277/images/day36%20.png)
+
