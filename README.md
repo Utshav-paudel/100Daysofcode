@@ -607,5 +607,5 @@ Today I scrapped tesla revenue where I learned about how to select specific tabl
 * <strong>Code</strong>  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/images/day37.png)  
 * csv file  
- [click][https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/code/day37/tesla_revenue.csv]
+ [click](https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/code/day37/tesla_revenue.csv)
 
