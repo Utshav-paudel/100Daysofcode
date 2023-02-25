@@ -600,3 +600,11 @@ Today I continued my learning on webscraping and scraped a website .
 Here is a sample code that find joblist from timejobs website.  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/833ceaf26e7f591ab934d5c0d6952ed4c83cb277/images/day36%20.png)
 
+# Day37
+Today I scrapped tesla revenue where I learned about how to select specific table from many tables in website.
+* use find_all to find all table and use indexing of table you want to retrieve , because find_all create list.
+* scrapped website [url](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm)
+* <strong>Code</strong>  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/images/day37.png)  
+* csv file [click][https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/code/day37/tesla_revenue.csv]
+
