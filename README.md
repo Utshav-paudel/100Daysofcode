@@ -608,4 +608,8 @@ Today I scrapped tesla revenue where I learned about how to select specific tabl
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/images/day37.png)  
 * csv file  
  [click](https://github.com/Utshav-paudel/100Daysofcode/blob/a02202b8edf731a4940535a0b1f4301f868a9fe1/code/day37/tesla_revenue.csv)
-
+# Day38
+Today I learned about how to createa and work on virtual environment.  
+Started to learn about streamlit which is a Interactive Data Visualization Web Application .  
+Here is a sample code to create webapp using streamlit.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/bb00b96d8504f87422f8e9fb8ac454d0ddaccd4c/images/day38.png)
