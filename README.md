@@ -615,8 +615,12 @@ Here is a sample code to create webapp using streamlit.
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/bb00b96d8504f87422f8e9fb8ac454d0ddaccd4c/images/day38.png)
 # Day38
 Today I learned about list comphrension using it we can really reduce the line of codes.  
-* ## list comphrension:  
-It is special methods in python where can 
+## :heavy_check_mark: list comphrension:  
+List comprehension is a concise way to create lists in Python. It is a syntactic construct that allows you to create a new list by specifying an expression and an iterable, along with optional filters and conditions. Here's the general syntax:  
+```python
+new_list = [expression for item in iterable if condition]
+```  
+
 Here is a sample program without using list comphrension vs with using list comphrension:  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d15c6f2f75ef60d01a6a1a84cfeedd838dcdd68b/images/day39%20without%20list%20comphrension.png)  
 Using list comphrension:  
