@@ -625,3 +625,26 @@ Here is a sample program without using list comphrension vs with using list comp
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d15c6f2f75ef60d01a6a1a84cfeedd838dcdd68b/images/day39%20without%20list%20comphrension.png)  
 Using list comphrension:  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d15c6f2f75ef60d01a6a1a84cfeedd838dcdd68b/images/day39%20using%20list%20comphrension.png)
+
+# Day40
+Today I learned about dictionary comphrension , looping in pandas dataframe and solved some problem related to it.
+## :heavy_check_mark: Dictionary comphrension:  
+syntax:  
+```python  
+new_dict ={new_key:new_value for item in list }  
+```
+we can also create a new dictionary from existing dictionary :  
+syntax:  
+```python
+new_dict ={new_key:new_value for (key,value) in dict.items() }
+```  
+also we can use conditional statement as we did in list comphrension  
+syntax:  
+```python  
+new_dict ={new_key:new_value for (key,value) in dict.items() if condition}
+```  
+Here is a sample program for dictionary comphrension :   
+![alt text]()  
+Here is a sample program for looping in pandas dataframe:  
+![alt]()
+
