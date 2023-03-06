@@ -644,7 +644,7 @@ syntax:
 new_dict ={new_key:new_value for (key,value) in dict.items() if condition}
 ```  
 Here is a sample program for dictionary comphrension :   
-![alt text]()  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cd1280e040a0de5f53edd3b17d239a6728be34aa/images/day40%20dict_comphrension.png)  
 Here is a sample program for looping in pandas dataframe:  
-![alt]()
+![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/cd1280e040a0de5f53edd3b17d239a6728be34aa/images/day40%20pandasdf_loop.png)
 
