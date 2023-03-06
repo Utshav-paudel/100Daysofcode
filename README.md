@@ -648,3 +648,8 @@ Here is a sample program for dictionary comphrension :
 Here is a sample program for looping in pandas dataframe:  
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/cd1280e040a0de5f53edd3b17d239a6728be34aa/images/day40%20pandasdf_loop.png)
 
+## Word to nato phonetic code :  
+* The NATO phonetic alphabet is a standardized spelling alphabet used by NATO militaries and other organizations to communicate information over radio or telephone in a clear and unambiguous way. It uses a set of 26 code words, each representing one letter of the English alphabet, to avoid confusion between similar-sounding letters.   
+Here is a code for this nato phonetic code generator.
+![image](https://github.com/Utshav-paudel/100Daysofcode/blob/45bf05e456dc87ffc80b0ef8785315847d3ea2f2/images/day40natocode.png)
+
