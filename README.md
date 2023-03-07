@@ -654,8 +654,8 @@ Here is a code for this nato phonetic code generator.
 ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/45bf05e456dc87ffc80b0ef8785315847d3ea2f2/images/day40natocode.png)
 
 # Day41
-Today I learned about *args and **kwargs .
-:heavy_check_mark: ## (*args)  
+Today I learned about *args and **kwargs.  
+* ## (*args)  
 *args is used to pass a variable number of non-keyword arguments to a function. It allows you to pass any number of arguments to a function, which are then packed into a tuple. Here's an example:  
 ```python
 def my_func(*args):
@@ -664,9 +664,9 @@ def my_func(*args):
 
 my_func(1, 2, 3)
 # Output: 1 2 3
-```
-:heavy_check_mark: ## (**kwargs)  
-**kwargs is used to pass a variable number of keyword arguments to a function. It allows you to pass any number of keyword arguments to a function, which are then packed into a dictionary. Here's an example:
+```  
+* ## (**kwargs)  
+**kwargs is used to pass a variable number of keyword arguments to a function. It allows you to pass any number of keyword arguments to a function, which are then packed into a dictionary. Here's an example:  
 ```python
 def my_func(**kwargs):
     for key, value in kwargs.items():
