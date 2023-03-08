@@ -8,6 +8,8 @@
 |3.[**Coffee machine**](https://github.com/Utshav-paudel/100Daysofcode/blob/ca68172d64863eb80a029d209471cde284b7fb24/code/day25/main.py)|
 |4.[**Betting on turtle race game**](https://github.com/Utshav-paudel/100Daysofcode/blob/ffa55b2723c0efa577db88d91162810966088a0e/code/day31/tutlerace.py)|
 |5.[**Snake game**](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day35)|
+|6.[**Mile to km app**](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day41/main.py)|
+|7.[**Pomodoro app**](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)|
 ### Core python 
 |**Core python**|
 |---------------|
@@ -677,4 +679,12 @@ my_func(name="John", age=30, city="New York")
 ```
 ### Tkinter miles to km converter app :  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/8b08d3d3ad67acb014f2b230d91678d779526fb3/images/day41%20miles%20to%20km%20converter.png)
+# Day42 
+Today I learned about strong typing and dynamic typing and built pomodoro app using python library tkinter.
+Python is strongly, dynamically typed.  
+* Strong typing means that the type of a value doesn't change in unexpected ways. A string containing only digits doesn't magically become a number, as may happen in Perl. Every change of type requires an explicit conversion.  
+* Dynamic typing means that runtime objects (values) have a type, as opposed to static typing where variables have a type.
     
+## Pomdoro app some glimpse  
+You can check full code [here](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)
+![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/images/day42%20.png)
