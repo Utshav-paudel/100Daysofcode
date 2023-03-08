@@ -684,7 +684,12 @@ Today I learned about strong typing and dynamic typing and built pomodoro app us
 Python is strongly, dynamically typed.  
 * Strong typing means that the type of a value doesn't change in unexpected ways. A string containing only digits doesn't magically become a number, as may happen in Perl. Every change of type requires an explicit conversion.  
 * Dynamic typing means that runtime objects (values) have a type, as opposed to static typing where variables have a type.
-    
+for e.g:  
+```python
+a = 5 #int
+a= "ram" # string
+```  
+In above program a is firstly integer and later assigning string chages it to string this is called dynamic typing.  
 ## Pomdoro app some glimpse  
 You can check full code [here](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/images/day42%20.png)
