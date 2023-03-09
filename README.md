@@ -10,6 +10,7 @@
 |5.[**Snake game**](https://github.com/Utshav-paudel/100Daysofcode/tree/Utshav-paudel/code/day35)|
 |6.[**Mile to km app**](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day41/main.py)|
 |7.[**Pomodoro app**](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)|
+|8.[**Password manager app**](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43)|
 ### Core python 
 |**Core python**|
 |---------------|
@@ -693,3 +694,9 @@ In above program a is firstly integer and later assigning string chages it to st
 ## Pomdoro app some glimpse  
 You can check full code [here](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/images/day42%20.png)
+
+# Day45
+Today I made password mananger app using tkinter it save your details in file.txt using file handling and also can generate your password.  
+It is safer to save local than online .
+click [here](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43) for full code.
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/dbba964e915e0f32bd3585298c936859a8add30c/images/day43%20password%20manager.png)
