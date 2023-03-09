@@ -695,7 +695,7 @@ In above program a is firstly integer and later assigning string chages it to st
 You can check full code [here](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/images/day42%20.png)
 
-# Day45
+# Day43
 Today I made password mananger app using tkinter it save your details in file.txt using file handling and also can generate your password.  
 It is safer to save local than online .
 click [here](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43) for full code.
