@@ -700,3 +700,13 @@ Today I made password mananger app using tkinter it save your details in file.tx
 It is safer to save local than online .
 click [here](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43) for full code.
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/dbba964e915e0f32bd3585298c936859a8add30c/images/day43%20password%20manager.png)
+ # Day44
+ Today I updated some features in my password manager by using json.load() , json.dump() , json.update() technique. some details of updates are:  
+ * data that user entered will be saved in json format .
+ * user can search their saved email and password .
+ * handle all exception that can crash program like if file doesnot exist it will be created using try and except.
+ 
+ Final app look like this :  
+ ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/9cd60b43b5c46041cc51c7214f07da84a82b1fc0/images/day44%20password%20manager%20updated.png)
+ 
+ [click]() here for final app code
