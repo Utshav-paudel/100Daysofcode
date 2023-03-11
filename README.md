@@ -11,6 +11,7 @@
 |6.[**Mile to km app**](https://github.com/Utshav-paudel/100Daysofcode/blob/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day41/main.py)|
 |7.[**Pomodoro app**](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)|
 |8.[**Password manager app**](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43)|
+|9.[**Flash card app**](https://github.com/Utshav-paudel/100Daysofcode/tree/79bb2667f4412f3d7c6e6a479202e08ed73da6b0/code/day45)|
 ### Core python 
 |**Core python**|
 |---------------|
@@ -710,3 +711,17 @@ click [here](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f3
  ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/9cd60b43b5c46041cc51c7214f07da84a82b1fc0/images/day44%20password%20manager%20updated.png)
  
  [click]() here for final app code
+ 
+# Day45
+Today I made flash card app using tkinter , In this app you will be shown french word first and after 3 seconds you will be given it english translation . If you know answer and click tick button the word will not be shown again but if you didnot know answer and click cross button the word will be shown again.  
+<strong>Highlights of app</strong>
+* You will select ✓(If you know) and ❌(if you dont know)  
+* The word you know will not be repeated
+* The translation of french to english will be shown after 3 seconds.
+
+some glimpse of app:  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/79bb2667f4412f3d7c6e6a479202e08ed73da6b0/images/day45%20flash%20card%20app.png)
+After 3 seconds it will show translation
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/79bb2667f4412f3d7c6e6a479202e08ed73da6b0/images/day45%20flash%20card%20result.png)  
+[click](https://github.com/Utshav-paudel/100Daysofcode/tree/79bb2667f4412f3d7c6e6a479202e08ed73da6b0/code/day45) here for full code.
+
