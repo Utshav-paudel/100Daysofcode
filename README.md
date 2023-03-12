@@ -12,6 +12,8 @@
 |7.[**Pomodoro app**](https://github.com/Utshav-paudel/100Daysofcode/tree/20324106cb5b59bb1e05a0b9f63fd7e5054b4a50/code/day42)|
 |8.[**Password manager app**](https://github.com/Utshav-paudel/100Daysofcode/tree/dbba964e915e0f32bd3585298c936859a8add30c/code/day43)|
 |9.[**Flash card app**](https://github.com/Utshav-paudel/100Daysofcode/tree/79bb2667f4412f3d7c6e6a479202e08ed73da6b0/code/day45)|
+|10.[**Kanye West Quote generator app**](https://github.com/Utshav-paudel/100Daysofcode/tree/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/code/day46/kanye%20west%20quote%20app)|
+|11.[**Iss satellite checker**](https://github.com/Utshav-paudel/100Daysofcode/tree/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/code/day46/iss%20overhead)|
 ### Core python 
 |**Core python**|
 |---------------|
@@ -745,5 +747,11 @@ Also I learned about HTTP Status code
 * 5xx : Server error
 ## Kanye west quote generator app
 I also built kanye west quote generator app using  kanye.rest API  
+[**Kanye West Quote generator app**](https://github.com/Utshav-paudel/100Daysofcode/tree/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/code/day46/kanye%20west%20quote%20app)  
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/f9df2f1953f08224bf7508a75b2f686c741318f4/images/day46%20kanye%20west%20quote%20generator.png)
 
+## ISS checker
+This program check ISS satellite if it is overhead you and its night then it will send email to your mail and tell you that iss is overhead.  
+[**Iss satellite checker**](https://github.com/Utshav-paudel/100Daysofcode/tree/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/code/day46/iss%20overhead)  
+Here is a sample of code :  
+![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/images/day46%20iss%20checker.png)
