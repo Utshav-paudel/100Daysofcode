@@ -729,8 +729,8 @@ After 3 seconds it will show translation
 Today I learned about API and built some project using api  
 <strong> API</strong>  
 An api a set of commands,functions,protocols and object that programmer can use to create software or interact with an external system.  
-*API endpoints : API endpoints are the specific digital location where requests for information are sent by one program to retrieve the digital resource that exists there  
-*API requests : A request includes the URL of the API endpoint and an HTTP request method. The method indicates the action you want the API to perform. Here are some of the most common methods:
+* API endpoints : API endpoints are the specific digital location where requests for information are sent by one program to retrieve the digital resource that exists there  
+* API requests : A request includes the URL of the API endpoint and an HTTP request method. The method indicates the action you want the API to perform. Here are some of the most common methods:
 
 GET retrieves data from an API.
 POST sends new data to an API.
