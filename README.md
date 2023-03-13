@@ -755,3 +755,10 @@ This program check ISS satellite if it is overhead you and its night then it wil
 [**Iss satellite checker**](https://github.com/Utshav-paudel/100Daysofcode/tree/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/code/day46/iss%20overhead)  
 Here is a sample of code :  
 ![alt](https://github.com/Utshav-paudel/100Daysofcode/blob/77b5e9617d3ed22c680d3afb3f6cfe4d1d23eaef/images/day46%20iss%20checker.png)
+
+# Day47
+Today I revised my knowledge on intermediate Html before getting started with webscrapping and selenium . 
+* I got to know that tags under meta are very important thing for seo optimization. 
+* we should prefer <strong> in place of <bold> tag , also <em> in place of <i> . "strong" and "em" tags are  very important because they help you to highlight expressions that you think are important, and which represents a web page's interest.  
+Here is sample website I build today as part of learning using Html only.  
+![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/d9820184d4760985873c751437f340ca55c86038/images/day47.png)
