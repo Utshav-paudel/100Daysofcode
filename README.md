@@ -759,6 +759,6 @@ Here is a sample of code :
 # Day47
 Today I revised my knowledge on intermediate Html before getting started with webscrapping and selenium . 
 * I got to know that tags under meta are very important thing for seo optimization. 
-* we should prefer <strong> in place of <bold> tag , also <em> in place of <i> . "strong" and "em" tags are  very important because they help you to highlight expressions that you think are important, and which represents a web page's interest.  
+* we should prefer ```<strong>``` in place of ```<bold>``` tag , also ```<em>``` in place of ```<i>``` tag because they help you to highlight expressions that you think are important, and which represents a web page's interest.  
 Here is sample website I build today as part of learning using Html only.  
 ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/d9820184d4760985873c751437f340ca55c86038/images/day47.png)
