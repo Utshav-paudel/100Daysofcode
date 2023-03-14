@@ -762,3 +762,28 @@ Today I revised my knowledge on intermediate Html before getting started with we
 * we should prefer ```<strong>``` in place of ```<bold>``` tag , also ```<em>``` in place of ```<i>``` tag because they help you to highlight expressions that you think are important, and which represents a web page's interest.  
 Here is sample website I build today as part of learning using Html only.  
 ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/d9820184d4760985873c751437f340ca55c86038/images/day47.png)
+
+# Day48
+Today I revised my knowledge about css before getting started with css.  
+<strong>CSS selector</strong>
+* element selector  
+Directly selects Html element for styling
+```css
+img
+{
+}
+```
+* class selector
+Select element on the basis of it class name , One page can used same class name in different items.  
+```css
+.class_name
+{}
+```  
+* id selector 
+The id of an element is unique within a page, so the id selector is used to select one unique element!  
+```css
+#id_name
+{}
+
+Here is a sample css written that give you basic idea.  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/tree/054a60285e790155656fb5bb538adcb0157da74e/images)
