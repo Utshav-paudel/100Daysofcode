@@ -1,0 +1,28 @@
+
+    body
+    {
+        background-color: beige;
+        
+    }
+    hr
+    {
+        border-style: dotted none none;
+        border-color: gray;
+        border-width: thick;
+        width: 10%;
+    }
+    h1
+    {
+        color: #94AF9F;
+        font: 50px Arial, sans-serif;
+    }
+    h3
+    {
+        font-family: 'Times New Roman', Times, serif;
+        color: brown;
+    }
+    img
+    {
+        height: 200px;
+        width: 200px;
+    }

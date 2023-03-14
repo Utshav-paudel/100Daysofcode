@@ -1,0 +1,31 @@
+h1
+{
+    color: red;
+    font-size: 200px;
+}
+/* styling of html element img */
+img
+{
+    background-color: red;
+}
+/* Styling of id  */
+#ilovebacon
+{
+font-family: serif;
+color: rebeccapurple;
+}
+/* styling by class */
+.bacon
+{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.flower
+{
+    background-color: green;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
