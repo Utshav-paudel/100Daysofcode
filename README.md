@@ -786,4 +786,4 @@ The id of an element is unique within a page, so the id selector is used to sele
 {}
 ```  
 Here is a sample css written that give you basic idea.  
-![alt text](https://github.com/Utshav-paudel/100Daysofcode/tree/054a60285e790155656fb5bb538adcb0157da74e/images)
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbcebbfc228fd5dcf98eaa44196e50fced54ebeb/images/day48.png)
