@@ -773,17 +773,17 @@ img
 {
 }
 ```
-* class selector
+* class selector  
 Select element on the basis of it class name , One page can used same class name in different items.  
 ```css
 .class_name
 {}
 ```  
-* id selector 
+* id selector  
 The id of an element is unique within a page, so the id selector is used to select one unique element!  
 ```css
 #id_name
 {}
-
+```  
 Here is a sample css written that give you basic idea.  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/tree/054a60285e790155656fb5bb538adcb0157da74e/images)
