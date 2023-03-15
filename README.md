@@ -764,7 +764,7 @@ Here is sample website I build today as part of learning using Html only.
 ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/d9820184d4760985873c751437f340ca55c86038/images/day47.png)
 
 # Day48
-Today I revised my knowledge about css before getting started with webscrapping in python.
+Today I revised my knowledge about css before getting started with webscrapping in python.  
 <strong>CSS selector</strong>
 * element selector  
 Directly selects Html element for styling
