@@ -787,3 +787,20 @@ The id of an element is unique within a page, so the id selector is used to sele
 ```  
 Here is a sample css written that give you basic idea.  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/cbcebbfc228fd5dcf98eaa44196e50fced54ebeb/images/day48.png)
+# Day49
+Today I learned more about intermediate css like display properties,css positioning,font-styling.  
+## Display property in css  
+The display property is used to control how an HTML element is displayed on a webpage.  
+There are several possible values for the display property, including:  
+* block: Makes the element a block-level element and takes up the full width of its parent container.
+* inline: Makes the element an inline-level element and takes up only as much width as necessary.
+* inline-block: Makes the element an inline-level block container, meaning it behaves like an inline element but can have a width and height set.
+* none: Hides the element from the page entirely, effectively removing it from the document flow.
+* flex: Turns the element into a flex container, allowing for flexible layouts with child elements.
+* grid: Turns the element into a grid container, allowing for grid-based layouts with child elements.  
+## Css positioning  
+There are four main types of CSS positioning: static, relative, absolute, and fixed.  
+* Static positioning is the default position of elements on a webpage and they flow in the order they appear in the HTML document.  
+* Relative positioning allows elements to be positioned relative to their original position, with the use of the top, bottom, left, and right properties.  
+* Absolute positioning positions elements relative to their nearest positioned ancestor, or the document body if no ancestor is found.  
+* Fixed positioning positions elements relative to the browser window and the element stays in the same position even when the page is scrolled.
