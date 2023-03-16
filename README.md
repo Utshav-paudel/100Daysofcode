@@ -809,3 +809,9 @@ There are four main types of CSS positioning: static, relative, absolute, and fi
   Today I revised by concepts on webscrapping and learn how to scrapped any website using css selector.  
     
  ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/43f4fae9f070def3e82ae924f17a9ef418e2aaf6/images/day50.png)
+    
+ Later I added an features on my program to get the title,link and upvote number of news with highest upvote.  
+  ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/03fe26307fdcec41d1d1ec3900bb110c5527a6c9/images/day50%20updated.png)
+    
+ Here is the snippet of output  
+  ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/03fe26307fdcec41d1d1ec3900bb110c5527a6c9/images/day50%20final%20output.png)
