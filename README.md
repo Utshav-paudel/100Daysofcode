@@ -804,3 +804,8 @@ There are four main types of CSS positioning: static, relative, absolute, and fi
 * Relative positioning allows elements to be positioned relative to their original position, with the use of the top, bottom, left, and right properties.  
 * Absolute positioning positions elements relative to their nearest positioned ancestor, or the document body if no ancestor is found.  
 * Fixed positioning positions elements relative to the browser window and the element stays in the same position even when the page is scrolled.
+
+# Day50
+  Today I revised by concepts on webscrapping and learn how to scrapped any website using css selector.  
+    
+ ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/43f4fae9f070def3e82ae924f17a9ef418e2aaf6/images/day50.png)
