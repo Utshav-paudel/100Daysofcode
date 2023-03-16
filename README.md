@@ -806,12 +806,12 @@ There are four main types of CSS positioning: static, relative, absolute, and fi
 * Fixed positioning positions elements relative to the browser window and the element stays in the same position even when the page is scrolled.
 
 # Day50
-  Today I revised by concepts on webscrapping and learn how to scrapped any website using css selector.  
+  Today I revised by concepts on webscrapping and learn how to scrapped any website using css selector and also with html using beautifulsoup  
     
  ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/43f4fae9f070def3e82ae924f17a9ef418e2aaf6/images/day50.png)
     
- Later I added an features on my program to get the title,link and upvote number of news with highest upvote.  
+ ### Later I added an features on my program to get the title,link and upvote number of news with highest upvote.  
   ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/03fe26307fdcec41d1d1ec3900bb110c5527a6c9/images/day50%20updated.png)
     
- Here is the snippet of output  
+ ### Here is the snippet of output with highest number of votes news detail at last
   ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/03fe26307fdcec41d1d1ec3900bb110c5527a6c9/images/day50%20final%20output.png)
