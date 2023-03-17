@@ -812,3 +812,11 @@ There are four main types of CSS positioning: static, relative, absolute, and fi
     
  ### Here is the snippet of output 
   ![image](https://github.com/Utshav-paudel/100Daysofcode/blob/03fe26307fdcec41d1d1ec3900bb110c5527a6c9/images/day50%20final%20output.png)
+  
+# Day51
+Todat I completed a project in webscrapping where user inputs the date and get top 100 music of that date.  
+Here is a code snippet for the above program:  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/5717ca0621c5f2e426c4820d63a6d0e0125ffab9/images/day51%20final.png)  
+Output looks like:  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/5717ca0621c5f2e426c4820d63a6d0e0125ffab9/images/day51%20output.png)
+
