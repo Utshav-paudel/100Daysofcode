@@ -818,5 +818,11 @@ Todat I completed a project in webscrapping where user inputs the date and get t
 Here is a code snippet for the above program:  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/5717ca0621c5f2e426c4820d63a6d0e0125ffab9/images/day51%20final.png)  
 Output looks like:  
-![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/5717ca0621c5f2e426c4820d63a6d0e0125ffab9/images/day51%20output.png)
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/5717ca0621c5f2e426c4820d63a6d0e0125ffab9/images/day51%20output.png)  
 
+# Day52
+Todat I created a program that scrape amazon webiste and send the price of product you selected to your email.
+In this project I learned following things
+* to scrape website like amazon you have to pass header which you can generate from www.myhttpheader.com 
+* also learned about smtplib library used to send email in python.  
+![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/8f07bc0f2db89057fd9b4fefd6d781f8e26ef2fd/images/day52.png)
