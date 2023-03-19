@@ -826,3 +826,8 @@ In this project I learned following things
 * to scrape website like amazon you have to pass header which you can generate from www.myhttpheader.com 
 * also learned about smtplib library used to send email in python.  
 ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/8f07bc0f2db89057fd9b4fefd6d781f8e26ef2fd/images/day52.png)
+
+# Day53
+ Today I learned about selenium,Selenium is an open-source tool that automates web browsers.  
+ Using selenium I created a program that automatically scrapped the require data from a website and store it json format.  
+ ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/9e0ba608d6510bb8f434183bf7cf22bd73f95d36/images/day53.png)
