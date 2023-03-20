@@ -831,3 +831,7 @@ In this project I learned following things
  Today I learned about selenium,Selenium is an open-source tool that automates web browsers.  
  Using selenium I created a program that automatically scrapped the require data from a website and store it json format.  
  ![alt image](https://github.com/Utshav-paudel/100Daysofcode/blob/9e0ba608d6510bb8f434183bf7cf22bd73f95d36/images/day53.png)
+ 
+ # Day54
+ Today I created bot using selenium that play web game called cookie clicker and upgrade item in enough points.  
+ ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d26a98393eb5ef8421ec9f61ca4ca272541cff41/images/day54.png)
