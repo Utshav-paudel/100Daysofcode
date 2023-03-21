@@ -835,3 +835,14 @@ In this project I learned following things
  # Day54
  Today I created bot using selenium that play web game called cookie clicker and upgrade item in enough points.  
  ![alt text](https://github.com/Utshav-paudel/100Daysofcode/blob/d26a98393eb5ef8421ec9f61ca4ca272541cff41/images/day54.png)
+ 
+ # Day55
+Today I get started with flask which is a framework in python. I learned about decorator,some basic of shell commands.Here is a snapshot of what I learned.  
+ * Decorator
+ Python decorators is a technique for changing the behavior of an existing function without changing actual code inside the function.  
+   
+here is a sample of decorator and how it works  
+![decorator](https://github.com/Utshav-paudel/100Daysofcode/blob/46bc09edfd96362a177003bf0515ba09b382e6f7/images/day55.1.png)
+
+Here is a simplest way to create flask app:  
+![flask app](https://github.com/Utshav-paudel/100Daysofcode/blob/46bc09edfd96362a177003bf0515ba09b382e6f7/images/day55.2.png)
