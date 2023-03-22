@@ -846,3 +846,24 @@ here is a sample of decorator and how it works
 
 Here is a simplest way to create flask app:  
 ![flask app](https://github.com/Utshav-paudel/100Daysofcode/blob/46bc09edfd96362a177003bf0515ba09b382e6f7/images/day55.2.png)
+# Day56
+Today I learned about debugg mode,working with flask url,and more about advnaced decorators.Below is some explanation and snapshot of what I learned today.  
+* Debugg mode:   
+When debug mode is on it allows automatic reload. 
+```python
+if __name__ == "__main__"
+    app.run(debug = True)
+```  
+ * Working with flask url:  
+You can modify flask url to work like you want here is sample  
+```python
+@app.route("/<name>/<int:number>")
+def greet(name, number):
+    return (f"Hello {name}! You are {number} years old")
+```  
+* rendering html elements with flask
+* advanced decorators.  
+Here is a decorator that I created that check authenication of login
+![creating decorators](https://github.com/Utshav-paudel/100Daysofcode/blob/2d1ab1a3eb7bef5360210140c561f21686857948/images/day56%20advanced%20decorator.png)  
+Here is snapshot all concept I used in sample flask app.  
+![image of sample flask app](https://github.com/Utshav-paudel/100Daysofcode/blob/2d1ab1a3eb7bef5360210140c561f21686857948/images/day56.png)
