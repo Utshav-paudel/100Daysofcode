@@ -867,3 +867,15 @@ Here is a decorator that I created that check authenication of login
 ![creating decorators](https://github.com/Utshav-paudel/100Daysofcode/blob/2d1ab1a3eb7bef5360210140c561f21686857948/images/day56%20advanced%20decorator.png)  
 Here is snapshot all concept I used in sample flask app.  
 ![image of sample flask app](https://github.com/Utshav-paudel/100Daysofcode/blob/2d1ab1a3eb7bef5360210140c561f21686857948/images/day56.png)
+
+
+# Day57
+Jinja:  
+Provide flask template for creating website with simple and organized file structure.
+
+<strong>we can use python functionalities in html file using '{{ }}' double braces. Its python file should be implemented in .py</strong>
+
+Note: Template should be inside `templates` file which is index.html file generally 
+[day57  code](https://github.com/Utshav-paudel/100Daysofcode/tree/8129174a158d1cf5f86d19747710208a83925c6a/code/day57)
+here is sample code that use jinja methods to import python functionalities in website
+![image of day57](https://github.com/Utshav-paudel/100Daysofcode/blob/2485973db90d2bdd2fcef7697bfd5f914465c454/images/day57.png)
