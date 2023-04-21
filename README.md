@@ -885,7 +885,7 @@ Today I learned about using multiline template and generating url  in jinja and 
 you can check full implementation on this [day 58 code](https://github.com/Utshav-paudel/100Daysofcode/tree/59d4e61c2b638427dbaceb2519794ca18f60da56/code/day58)
 * Multiline is  usef for thing like using for loop , if else condition inside html file  
 ```html
-<h1>{% for i in range(5): } </h1>
+<h1>{% for i in range(5): %} </h1>
 <h2>{{ hello }}</h2>
 {%endfor%}
 ```
