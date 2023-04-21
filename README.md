@@ -875,6 +875,25 @@ Provide flask template for creating website with simple and organized file struc
 
 <strong>we can use python functionalities in html file using '{{ }}' double braces. Its python file should be implemented in .py</strong>  
 Note: Template should be inside `templates` file which is index.html file generally  
-[day57  code](https://github.com/Utshav-paudel/100Daysofcode/tree/8129174a158d1cf5f86d19747710208a83925c6a/code/day57)  
+  
 here is sample code that use jinja methods to import python functionalities in website  
+[day57  code](https://github.com/Utshav-paudel/100Daysofcode/tree/8129174a158d1cf5f86d19747710208a83925c6a/code/day57)  
+
 ![image of day57](https://github.com/Utshav-paudel/100Daysofcode/blob/2485973db90d2bdd2fcef7697bfd5f914465c454/images/day57.png)
+# Day58
+Today I learned about using multiline template and generating url  in jinja and applied them on my server.  
+you can check full implementation on this [day 58 code](https://github.com/Utshav-paudel/100Daysofcode/tree/59d4e61c2b638427dbaceb2519794ca18f60da56/code/day58)
+* Multiline is  usef for thing like using for loop , if else condition inside html file  
+```html
+<h1>{% for i in range(5): } </h1>
+<h2>{{ hello }}</h2>
+{%endfor%}
+```
+![](https://github.com/Utshav-paudel/100Daysofcode/blob/389b056dbfeef1a8644250ba6afb98c682d3a172/images/day58%20.png)  
+
+* URL building with flask
+```html
+<a href="{{ url_for('function_name',other parameter)}}">press</a>
+
+```   
+![](https://github.com/Utshav-paudel/100Daysofcode/blob/59d4e61c2b638427dbaceb2519794ca18f60da56/images/day58%20URL%20linking.png)
