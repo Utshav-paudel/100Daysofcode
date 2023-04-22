@@ -897,3 +897,15 @@ you can check full implementation on this [day 58 code](https://github.com/Utsha
 
 ```   
 ![](https://github.com/Utshav-paudel/100Daysofcode/blob/59d4e61c2b638427dbaceb2519794ca18f60da56/images/day58%20URL%20linking.png)
+
+# Day59
+Today, I learned about using Bootstrap to build responsive websites. Bootstrap is a popular front-end development framework that provides pre-built components and styles to help developers create beautiful, responsive websites quickly and easily.
+
+To start building a website with Bootstrap, it's important to first create a mockup or wireframe of your website design. This can help you plan out the layout and structure of your website, and ensure that it meets your requirements and goals.
+
+I also learned about some of the key features of Bootstrap that make it easy to create responsive websites. These include:
+
+Grid system: Bootstrap's grid system is based on a 12-column layout, which can be easily customized to fit the needs of your website.
+Responsive breakpoints: Bootstrap includes responsive breakpoints that allow you to adjust the layout of your website based on the size of the user's screen.
+Pre-built components: Bootstrap provides a variety of pre-built components, such as navigation menus, forms, and modals, that can be easily customized to fit your website's design.
+Overall, I found today's lesson on Bootstrap and mockups to be very helpful, and I'm excited to start building my own responsive websites using this framework. Tomorrow, I plan to dive deeper into the grid system and explore how to use it to create complex layouts.
