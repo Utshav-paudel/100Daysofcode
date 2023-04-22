@@ -908,4 +908,6 @@ I also learned about some of the key features of Bootstrap that make it easy to 
 Grid system: Bootstrap's grid system is based on a 12-column layout, which can be easily customized to fit the needs of your website.
 Responsive breakpoints: Bootstrap includes responsive breakpoints that allow you to adjust the layout of your website based on the size of the user's screen.
 Pre-built components: Bootstrap provides a variety of pre-built components, such as navigation menus, forms, and modals, that can be easily customized to fit your website's design.
-Overall, I found today's lesson on Bootstrap and mockups to be very helpful, and I'm excited to start building my own responsive websites using this framework. Tomorrow, I plan to dive deeper into the grid system and explore how to use it to create complex layouts.
+Overall, I found today's lesson on Bootstrap and mockups to be very helpful, and I'm excited to start building my own responsive websites using this framework. Tomorrow, I plan to dive deeper into the grid system and explore how to use it to create complex layouts.  
+    Here is a sample of website that I built today.
+![](https://github.com/Utshav-paudel/100Daysofcode/blob/49c027f555570956d34af2b565b319e5c9f91307/images/day59.png)
