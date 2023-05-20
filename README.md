@@ -911,3 +911,9 @@ Pre-built components: Bootstrap provides a variety of pre-built components, such
 Overall, I found today's lesson on Bootstrap and mockups to be very helpful, and I'm excited to start building my own responsive websites using this framework. Tomorrow, I plan to dive deeper into the grid system and explore how to use it to create complex layouts.  
     Here is a sample of website that I built today.
 ![](https://github.com/Utshav-paudel/100Daysofcode/blob/49c027f555570956d34af2b565b319e5c9f91307/images/day59.png)
+
+# Day60
+Today, I created a falsk app that is used for iris flower classification based Decision tree algorithm and deployed it in flask server to make it user interactive.  
+    Here is demo of project :   
+    ![](https://github.com/Utshav-paudel/100Daysofcode/blob/ade073258e305b7168a9ac046cbae3bc97520fdd/images/project%20demo.png)
+    * [Iris flower classificaiton webapp](https://github.com/Utshav-paudel/Iris-flower-calssification-webapp)
