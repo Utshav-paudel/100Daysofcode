@@ -921,3 +921,5 @@ Today, I created a falsk app that is used for iris flower classification based D
 * Today I learned about super() method in python which is used incase of multiple inheritance it allow us to call any method or function from parent class in base class.
 Here is a sample hope you get some insights
 ![python-super](https://github.com/Utshav-paudel/100Daysofcode/blob/1cfbc464ffcfe3adb806ed3fbfa53bc9f486290e/images/day61%20super.png)
+# Day62
+* Today I learned more on webscrapping especially dealing with loading more pages , I have scrapped around 1.1k articles from kathmandu post for a project using beautiful soup. You can deal with pagination using json file available in network developer tool. Since the kathmandu post didnot have proper json showing changes in pages I use selinum to automate the load more option and scrapped all data using beautiful soup.
