@@ -926,3 +926,5 @@ Here is a sample hope you get some insights
 # Day63 
 * Today I started learning FastAPI and learn about FastAPI request methods , also worked on simple student register system where I added functionality for adding student, searching student a, searching course , updating passed student and displaying results using python and learned about some method of regex to manage desire input , used datetime module to check various condition of update status like if student has date of later than today or if the date is not correct format.
 * Implemented logging in python which keep tracks of the exception or any failure in code which makes debugging a lot more easier as failure are easier to find by logging
+# Day 64
+* As a part of learning fast API today I built a webapp that accept image and using deep learning to model to classify it.
